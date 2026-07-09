@@ -1,0 +1,14 @@
+==================================================
+DATAOPS PIPELINE OPERATIONAL RUN SUMMARY
+==================================================
+Execution Time   : 26.28 seconds
+Raw Dataset Rows : 32581
+Raw Columns      : 12
+Missing Values   : 4011
+Duplicates Found : 165
+Processed Rows   : 24629
+Processed Columns: 20
+Charts Generated : 5 (Saved in reports/figures/)
+Output File      : data/processed/credit_risk_processed.csv
+Pipeline Status  : SUCCESS
+==================================================

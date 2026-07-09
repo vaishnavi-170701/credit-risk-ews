@@ -1,0 +1,178 @@
+2026-07-09 20:08:21,286 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:08:21,287 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:08:24,191 - INFO - Dataset Loaded Successfully
+2026-07-09 20:08:24,214 - INFO - Rows = 32581
+2026-07-09 20:08:24,214 - INFO - Columns = 12
+2026-07-09 20:08:24,214 - INFO - Missing Values = 4011
+2026-07-09 20:08:24,214 - INFO - Duplicate Rows = 165
+2026-07-09 20:08:24,215 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:08:28,827 - INFO - Preprocessing Stage Started
+2026-07-09 20:08:33,348 - INFO - EDA Visualization Generation Started
+2026-07-09 20:09:37,855 - INFO - EDA Visualization Generation Started
+2026-07-09 20:09:48,033 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:09:48,033 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:09:50,011 - INFO - Dataset Loaded Successfully
+2026-07-09 20:09:50,055 - INFO - Rows = 32581
+2026-07-09 20:09:50,056 - INFO - Columns = 12
+2026-07-09 20:09:50,056 - INFO - Missing Values = 4011
+2026-07-09 20:09:50,056 - INFO - Duplicate Rows = 165
+2026-07-09 20:09:50,057 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:09:54,574 - INFO - Preprocessing Stage Started
+2026-07-09 20:09:59,893 - INFO - EDA Visualization Generation Started
+2026-07-09 20:11:05,122 - INFO - EDA Visualization Generation Started
+2026-07-09 20:11:15,920 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:11:15,921 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:11:17,745 - INFO - Dataset Loaded Successfully
+2026-07-09 20:11:17,765 - INFO - Rows = 32581
+2026-07-09 20:11:17,766 - INFO - Columns = 12
+2026-07-09 20:11:17,766 - INFO - Missing Values = 4011
+2026-07-09 20:11:17,766 - INFO - Duplicate Rows = 165
+2026-07-09 20:11:17,766 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:11:22,222 - INFO - Preprocessing Stage Started
+2026-07-09 20:11:27,619 - INFO - EDA Visualization Generation Started
+2026-07-09 20:12:31,658 - INFO - EDA Visualization Generation Started
+2026-07-09 20:12:42,785 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:12:42,785 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:12:44,812 - INFO - Dataset Loaded Successfully
+2026-07-09 20:12:44,832 - INFO - Rows = 32581
+2026-07-09 20:12:44,832 - INFO - Columns = 12
+2026-07-09 20:12:44,832 - INFO - Missing Values = 4011
+2026-07-09 20:12:44,832 - INFO - Duplicate Rows = 165
+2026-07-09 20:12:44,833 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:12:49,397 - INFO - Preprocessing Stage Started
+2026-07-09 20:12:53,925 - INFO - EDA Visualization Generation Started
+2026-07-09 20:13:58,336 - INFO - EDA Visualization Generation Started
+2026-07-09 20:14:38,097 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:14:38,097 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:14:41,014 - INFO - Dataset Loaded Successfully
+2026-07-09 20:14:41,033 - INFO - Rows = 32581
+2026-07-09 20:14:41,034 - INFO - Columns = 12
+2026-07-09 20:14:41,034 - INFO - Missing Values = 4011
+2026-07-09 20:14:41,034 - INFO - Duplicate Rows = 165
+2026-07-09 20:14:41,035 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:14:45,483 - INFO - Preprocessing Stage Started
+2026-07-09 20:14:50,786 - INFO - EDA Visualization Generation Started
+2026-07-09 20:15:56,848 - INFO - EDA Visualization Generation Started
+2026-07-09 20:16:10,507 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:16:10,508 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:16:13,217 - INFO - Dataset Loaded Successfully
+2026-07-09 20:16:13,237 - INFO - Rows = 32581
+2026-07-09 20:16:13,237 - INFO - Columns = 12
+2026-07-09 20:16:13,237 - INFO - Missing Values = 4011
+2026-07-09 20:16:13,237 - INFO - Duplicate Rows = 165
+2026-07-09 20:16:13,238 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:16:17,700 - INFO - Preprocessing Stage Started
+2026-07-09 20:16:22,171 - INFO - EDA Visualization Generation Started
+2026-07-09 20:17:27,220 - INFO - EDA Visualization Generation Started
+2026-07-09 20:18:11,181 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:18:11,182 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:18:13,050 - INFO - Dataset Loaded Successfully
+2026-07-09 20:18:13,069 - INFO - Rows = 32581
+2026-07-09 20:18:13,070 - INFO - Columns = 12
+2026-07-09 20:18:13,070 - INFO - Missing Values = 4011
+2026-07-09 20:18:13,070 - INFO - Duplicate Rows = 165
+2026-07-09 20:18:13,070 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:18:18,494 - INFO - Preprocessing Stage Started
+2026-07-09 20:18:23,758 - INFO - EDA Visualization Generation Started
+2026-07-09 20:19:27,899 - INFO - EDA Visualization Generation Started
+2026-07-09 20:19:38,713 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:19:38,713 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:19:42,526 - INFO - Dataset Loaded Successfully
+2026-07-09 20:19:42,546 - INFO - Rows = 32581
+2026-07-09 20:19:42,546 - INFO - Columns = 12
+2026-07-09 20:19:42,546 - INFO - Missing Values = 4011
+2026-07-09 20:19:42,547 - INFO - Duplicate Rows = 165
+2026-07-09 20:19:42,547 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:19:47,778 - INFO - Preprocessing Stage Started
+2026-07-09 20:19:53,000 - INFO - EDA Visualization Generation Started
+2026-07-09 20:20:58,170 - INFO - EDA Visualization Generation Started
+2026-07-09 20:23:29,279 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:23:29,279 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:23:31,138 - INFO - Dataset Loaded Successfully
+2026-07-09 20:23:31,157 - INFO - Rows = 32581
+2026-07-09 20:23:31,158 - INFO - Columns = 12
+2026-07-09 20:23:31,158 - INFO - Missing Values = 4011
+2026-07-09 20:23:31,158 - INFO - Duplicate Rows = 165
+2026-07-09 20:23:31,158 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:23:35,706 - INFO - Preprocessing Stage Started
+2026-07-09 20:23:40,270 - INFO - EDA Visualization Generation Started
+2026-07-09 20:24:44,352 - INFO - EDA Visualization Generation Started
+2026-07-09 20:24:55,455 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:24:55,455 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:24:58,727 - INFO - Dataset Loaded Successfully
+2026-07-09 20:24:58,747 - INFO - Rows = 32581
+2026-07-09 20:24:58,747 - INFO - Columns = 12
+2026-07-09 20:24:58,747 - INFO - Missing Values = 4011
+2026-07-09 20:24:58,747 - INFO - Duplicate Rows = 165
+2026-07-09 20:24:58,748 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:25:03,209 - INFO - Preprocessing Stage Started
+2026-07-09 20:25:07,657 - INFO - EDA Visualization Generation Started
+2026-07-09 20:26:13,072 - INFO - EDA Visualization Generation Started
+2026-07-09 20:26:23,157 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:26:23,158 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:26:25,018 - INFO - Dataset Loaded Successfully
+2026-07-09 20:26:25,038 - INFO - Rows = 32581
+2026-07-09 20:26:25,038 - INFO - Columns = 12
+2026-07-09 20:26:25,038 - INFO - Missing Values = 4011
+2026-07-09 20:26:25,038 - INFO - Duplicate Rows = 165
+2026-07-09 20:26:25,039 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:26:29,684 - INFO - Preprocessing Stage Started
+2026-07-09 20:26:34,081 - INFO - EDA Visualization Generation Started
+2026-07-09 20:27:38,845 - INFO - EDA Visualization Generation Started
+2026-07-09 20:28:09,281 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:28:09,281 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:28:11,140 - INFO - Dataset Loaded Successfully
+2026-07-09 20:28:11,160 - INFO - Rows = 32581
+2026-07-09 20:28:11,160 - INFO - Columns = 12
+2026-07-09 20:28:11,160 - INFO - Missing Values = 4011
+2026-07-09 20:28:11,160 - INFO - Duplicate Rows = 165
+2026-07-09 20:28:11,161 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:28:16,486 - INFO - Preprocessing Stage Started
+2026-07-09 20:28:23,538 - INFO - EDA Visualization Generation Started
+2026-07-09 20:29:28,030 - INFO - EDA Visualization Generation Started
+2026-07-09 20:30:10,422 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:30:10,423 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:30:12,229 - INFO - Dataset Loaded Successfully
+2026-07-09 20:30:12,249 - INFO - Rows = 32581
+2026-07-09 20:30:12,249 - INFO - Columns = 12
+2026-07-09 20:30:12,249 - INFO - Missing Values = 4011
+2026-07-09 20:30:12,250 - INFO - Duplicate Rows = 165
+2026-07-09 20:30:12,250 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:30:16,837 - INFO - INFO — Preprocessing Stage Started
+2026-07-09 20:30:16,865 - INFO - Dataset Loaded for Preprocessing. Initial Shape: (32581, 12)
+2026-07-09 20:30:16,887 - INFO - Duplicate rows removed. Rows dropped: 165
+2026-07-09 20:30:16,892 - INFO - Structural cleaning & business logic anomaly filtering completed
+2026-07-09 20:30:16,904 - INFO - Categorical encoding and hot-vector transformation complete
+2026-07-09 20:30:16,930 - INFO - Data Split Complete. Train shape: (24629, 17), Test shape: (6158, 17)
+2026-07-09 20:30:16,932 - INFO - Executing MICE Imputation algorithm...
+2026-07-09 20:30:17,008 - INFO - Imputation Successful
+2026-07-09 20:30:17,009 - INFO - Executing Robust Range Scaling Normalization...
+2026-07-09 20:30:17,021 - INFO - Scaling Completed
+2026-07-09 20:30:17,271 - INFO - Pipeline Step Successful: Processed dataset saved to /home/azureuser/credit-risk-ews/data/processed/credit_risk_processed.csv (Size: 3202707 bytes)
+2026-07-09 20:30:21,959 - INFO - EDA Visualization Generation Started
+2026-07-09 20:30:24,169 - INFO - EDA Completed. Charts Saved.
+2026-07-09 20:30:29,451 - INFO - Compiling Automated Pipeline Execution Summary
+2026-07-09 20:30:29,532 - INFO - Pipeline Completed Successfully! Summary saved to reports/summary.txt
+2026-07-09 20:30:40,557 - INFO - Pipeline Started: Data Ingestion & Validation Stage
+2026-07-09 20:30:40,557 - INFO - Downloading dataset from Kaggle: laotse/credit-risk-dataset
+2026-07-09 20:30:43,260 - INFO - Dataset Loaded Successfully
+2026-07-09 20:30:43,280 - INFO - Rows = 32581
+2026-07-09 20:30:43,280 - INFO - Columns = 12
+2026-07-09 20:30:43,280 - INFO - Missing Values = 4011
+2026-07-09 20:30:43,280 - INFO - Duplicate Rows = 165
+2026-07-09 20:30:43,281 - INFO - Validation Report Complete! Saved to reports/validation_report.txt
+2026-07-09 20:30:49,713 - INFO - INFO — Preprocessing Stage Started
+2026-07-09 20:30:49,745 - INFO - Dataset Loaded for Preprocessing. Initial Shape: (32581, 12)
+2026-07-09 20:30:49,764 - INFO - Duplicate rows removed. Rows dropped: 165
+2026-07-09 20:30:49,769 - INFO - Structural cleaning & business logic anomaly filtering completed
+2026-07-09 20:30:49,781 - INFO - Categorical encoding and hot-vector transformation complete
+2026-07-09 20:30:49,807 - INFO - Data Split Complete. Train shape: (24629, 17), Test shape: (6158, 17)
+2026-07-09 20:30:49,809 - INFO - Executing MICE Imputation algorithm...
+2026-07-09 20:30:49,885 - INFO - Imputation Successful
+2026-07-09 20:30:49,885 - INFO - Executing Robust Range Scaling Normalization...
+2026-07-09 20:30:49,898 - INFO - Scaling Completed
+2026-07-09 20:30:50,148 - INFO - Pipeline Step Successful: Processed dataset saved to /home/azureuser/credit-risk-ews/data/processed/credit_risk_processed.csv (Size: 3202707 bytes)
+2026-07-09 20:30:54,740 - INFO - EDA Visualization Generation Started
+2026-07-09 20:30:56,967 - INFO - EDA Completed. Charts Saved.
+2026-07-09 20:31:01,427 - INFO - Compiling Automated Pipeline Execution Summary
+2026-07-09 20:31:01,508 - INFO - Pipeline Completed Successfully! Summary saved to reports/summary.txt
