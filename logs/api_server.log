@@ -1,0 +1,70 @@
+nohup: ignoring input
+INFO:     Started server process [11828]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('0.0.0.0INFO:     223.233.85.229:20965 - "GET / HTTP/1.1" 200 OK
+INFO:     223.233.85.229:20965 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     223.233.85.229:11431 - "GET /docs HTTP/1.1" 200 OK
+INFO:     223.233.85.229:11431 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     20.204.44.132:50368 - "GET / HTTP/1.1" 200 OK
+INFO:     20.204.44.132:50372 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     20.204.44.132:58472 - "POST /predict HTTP/1.1" 200 OK
+INFO:     223.233.85.229:2276 - "GET /docs HTTP/1.1" 200 OK
+INFO:     223.233.85.229:2276 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     223.233.85.229:12086 - "GET /health HTTP/1.1" 200 OK
+INFO:     223.233.85.229:17145 - "POST /predict HTTP/1.1" 200 OK
+INFO:     223.233.85.229:2697 - "GET /model-info HTTP/1.1" 200 OK
+INFO:     20.204.44.132:59264 - "GET / HTTP/1.1" 200 OK
+INFO:     20.204.44.132:45794 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     20.204.44.132:45808 - "GET /pipeline-status HTTP/1.1" 200 OK
+INFO:     20.204.44.132:43582 - "GET /application-info HTTP/1.1" 200 OK
+INFO:     20.204.44.132:43592 - "GET /model-info HTTP/1.1" 200 OK
+INFO:     20.204.44.132:45266 - "POST /predict HTTP/1.1" 200 OK
+INFO:     20.204.44.132:41812 - "POST /predict HTTP/1.1" 200 OK
+INFO:     20.204.44.132:41822 - "GET /application-info HTTP/1.1" 200 OK
+INFO:     20.204.44.132:41836 - "GET /model-info HTTP/1.1" 200 OK
+INFO:     20.204.44.132:52162 - "GET /pipeline-status HTTP/1.1" 200 OK
+INFO:     20.204.44.132:52168 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.195.118:15426 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.195.118:39838 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.195.118:39870 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     66.132.195.118:59932 - "POST /mcp HTTP/1.1" 404 Not Found
+INFO:     66.132.195.118:59946 - "POST /jsonrpc HTTP/1.1" 404 Not Found
+INFO:     66.132.195.118:59968 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     34.201.223.233:12804 - "GET / HTTP/1.1" 200 OK
+INFO:     34.201.223.233:12816 - "GET / HTTP/1.1" 200 OK
+INFO:     34.201.223.233:12832 - "GET / HTTP/1.1" 200 OK
+INFO:     34.201.223.233:12834 - "GET / HTTP/1.1" 200 OK
+INFO:     34.201.223.233:12844 - "GET / HTTP/1.1" 200 OK
+INFO:     34.201.223.233:12854 - "GET / HTTP/1.1" 200 OK
+INFO:     34.201.223.233:12858 - "GET / HTTP/1.1" 200 OK
+INFO:     34.201.223.233:12864 - "GET / HTTP/1.1" 200 OK
+INFO:     34.201.223.233:12866 - "GET /stream/0 HTTP/1.1" 404 Not Found
+INFO:     34.201.223.233:12878 - "GET /content/nRm5L7_VXy.mp3 HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.195.118:60008 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     34.201.223.233:45392 - "GET / HTTP/1.1" 200 OK
+INFO:     34.201.223.233:33786 - "GET /./WEB-INF/ HTTP/1.1" 404 Not Found
+INFO:     34.201.223.233:33796 - "GET /goanywhere/auth/Login.xhtml HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     20.204.44.132:33352 - "GET / HTTP/1.1" 200 OK
+INFO:     20.204.44.132:38724 - "GET / HTTP/1.1" 200 OK
+INFO:     20.204.44.132:55050 - "GET / HTTP/1.1" 200 OK
+INFO:     20.204.44.132:51438 - "POST /predict HTTP/1.1" 200 OK
+INFO:     20.204.44.132:39272 - "GET / HTTP/1.1" 200 OK
+INFO:     20.204.44.132:32938 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     20.204.44.132:32946 - "GET /pipeline-status HTTP/1.1" 200 OK
+INFO:     20.204.44.132:45596 - "GET /application-info HTTP/1.1" 200 OK
+INFO:     20.204.44.132:45602 - "GET /model-info HTTP/1.1" 200 OK
+INFO:     20.204.44.132:45604 - "GET / HTTP/1.1" 200 OK
+INFO:     20.204.44.132:60670 - "GET / HTTP/1.1" 200 OK
+INFO:     20.204.44.132:34228 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     20.204.44.132:34232 - "GET /application-info HTTP/1.1" 200 OK
+INFO:     20.204.44.132:34236 - "GET /model-info HTTP/1.1" 200 OK
+INFO:     20.204.44.132:34250 - "GET /pipeline-status HTTP/1.1" 200 OK
+INFO:     20.204.44.132:34260 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     20.204.44.132:36026 - "GET / HTTP/1.1" 200 OK

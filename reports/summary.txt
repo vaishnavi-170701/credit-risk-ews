@@ -1,7 +1,7 @@
 ==================================================
 DATAOPS PIPELINE OPERATIONAL RUN SUMMARY
 ==================================================
-Execution Time   : 26.28 seconds
+Execution Time   : 26.76 seconds
 Raw Dataset Rows : 32581
 Raw Columns      : 12
 Missing Values   : 4011

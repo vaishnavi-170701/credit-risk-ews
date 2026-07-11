@@ -1,0 +1,18 @@
+==================================================
+MLOPS PIPELINE EVALUATION PERFORMANCE REPORT
+==================================================
+
+Model Configuration Name: Logistic_Regression
+ - Accuracy: 0.8610
+ - Precision: 0.7579
+ - Recall: 0.5250
+ - F1_score: 0.6203
+
+Model Configuration Name: Random_Forest
+ - Accuracy: 0.9310
+ - Precision: 0.9690
+ - Recall: 0.7034
+ - F1_score: 0.8151
+
+CHAMPION SELECTION: Random_Forest (Saved to models/best_model.pkl)
+==================================================
